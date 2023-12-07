@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/HarshPortfolioReact/static/css/main.26e5f574.css",
+    "main.js": "/HarshPortfolioReact/static/js/main.9bb019fd.js",
+    "static/media/IMG_6568.png": "/HarshPortfolioReact/static/media/IMG_6568.b0b22d35ed734e35e77c.png",
+    "static/media/IMG_2659.png": "/HarshPortfolioReact/static/media/IMG_2659.89d2f0511526ac78a2be.png",
+    "static/media/IMG_5043.png": "/HarshPortfolioReact/static/media/IMG_5043.ba69c1959375d91b2fac.png",
+    "static/media/IMG_5204.png": "/HarshPortfolioReact/static/media/IMG_5204.7ab806990272f5d9f299.png",
+    "static/media/about-banner.png": "/HarshPortfolioReact/static/media/about-banner.5a9d49651825848c8c81.png",
+    "static/media/FullSizeRender.png": "/HarshPortfolioReact/static/media/FullSizeRender.d5c1455d8382491c2f08.png",
+    "static/media/Harsh Patel.pdf": "/HarshPortfolioReact/static/media/Harsh Patel.f246f5b1c2bd967c21ad.pdf",
+    "index.html": "/HarshPortfolioReact/index.html",
+    "main.26e5f574.css.map": "/HarshPortfolioReact/static/css/main.26e5f574.css.map",
+    "main.9bb019fd.js.map": "/HarshPortfolioReact/static/js/main.9bb019fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26e5f574.css",
+    "static/js/main.9bb019fd.js"
+  ]
+}
