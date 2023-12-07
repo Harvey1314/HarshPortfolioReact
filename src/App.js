@@ -10,7 +10,7 @@ function App() {
       <div className="container">
         <BrowserRouter>
           <Routes>
-            <Route path="/" element={<Home />} />
+            <Route path="/HarshPortfolioReact/" element={<Home />} />
             <Route path="/HarshPortfolioReact/Home" element={<Home />} />
             <Route
               path="/HarshPortfolioReact/Projects"
