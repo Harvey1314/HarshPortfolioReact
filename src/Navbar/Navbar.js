@@ -7,7 +7,7 @@ function Navbar(props) {
     <div>
       <nav className="bg-[#27374D] text-[#DDE6ED] w-screen">
         <div className="flex align-middle justify-between p-5">
-          <NavLink to="/Home" className="text-2xl font-quicksand font-bold">
+          <NavLink to="/" className="text-2xl font-quicksand font-bold">
             HARSH
           </NavLink>
           <ul className="flex align-middle justify-center list-none">
