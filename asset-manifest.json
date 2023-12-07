@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/HarshPortfolioReact/static/css/main.26e5f574.css",
-    "main.js": "/HarshPortfolioReact/static/js/main.31afdf63.js",
+    "main.css": "/HarshPortfolioReact/static/css/main.d60bba36.css",
+    "main.js": "/HarshPortfolioReact/static/js/main.35ccf59b.js",
     "static/media/IMG_6568.png": "/HarshPortfolioReact/static/media/IMG_6568.b0b22d35ed734e35e77c.png",
     "static/media/IMG_2659.png": "/HarshPortfolioReact/static/media/IMG_2659.89d2f0511526ac78a2be.png",
     "static/media/IMG_5043.png": "/HarshPortfolioReact/static/media/IMG_5043.ba69c1959375d91b2fac.png",
@@ -10,11 +10,11 @@
     "static/media/FullSizeRender.png": "/HarshPortfolioReact/static/media/FullSizeRender.d5c1455d8382491c2f08.png",
     "static/media/Harsh Patel.pdf": "/HarshPortfolioReact/static/media/Harsh Patel.f246f5b1c2bd967c21ad.pdf",
     "index.html": "/HarshPortfolioReact/index.html",
-    "main.26e5f574.css.map": "/HarshPortfolioReact/static/css/main.26e5f574.css.map",
-    "main.31afdf63.js.map": "/HarshPortfolioReact/static/js/main.31afdf63.js.map"
+    "main.d60bba36.css.map": "/HarshPortfolioReact/static/css/main.d60bba36.css.map",
+    "main.35ccf59b.js.map": "/HarshPortfolioReact/static/js/main.35ccf59b.js.map"
   },
   "entrypoints": [
-    "static/css/main.26e5f574.css",
-    "static/js/main.31afdf63.js"
+    "static/css/main.d60bba36.css",
+    "static/js/main.35ccf59b.js"
   ]
 }
