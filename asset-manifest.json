@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HarshPortfolioReact/static/css/main.26e5f574.css",
-    "main.js": "/HarshPortfolioReact/static/js/main.c801dd65.js",
+    "main.js": "/HarshPortfolioReact/static/js/main.19524d96.js",
     "static/media/IMG_6568.png": "/HarshPortfolioReact/static/media/IMG_6568.b0b22d35ed734e35e77c.png",
     "static/media/IMG_2659.png": "/HarshPortfolioReact/static/media/IMG_2659.89d2f0511526ac78a2be.png",
     "static/media/IMG_5043.png": "/HarshPortfolioReact/static/media/IMG_5043.ba69c1959375d91b2fac.png",
@@ -11,10 +11,10 @@
     "static/media/Harsh Patel.pdf": "/HarshPortfolioReact/static/media/Harsh Patel.f246f5b1c2bd967c21ad.pdf",
     "index.html": "/HarshPortfolioReact/index.html",
     "main.26e5f574.css.map": "/HarshPortfolioReact/static/css/main.26e5f574.css.map",
-    "main.c801dd65.js.map": "/HarshPortfolioReact/static/js/main.c801dd65.js.map"
+    "main.19524d96.js.map": "/HarshPortfolioReact/static/js/main.19524d96.js.map"
   },
   "entrypoints": [
     "static/css/main.26e5f574.css",
-    "static/js/main.c801dd65.js"
+    "static/js/main.19524d96.js"
   ]
 }
